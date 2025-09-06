@@ -28,6 +28,7 @@ Any change in source code triggers a rebuild, and site is reloaded in browser.
 
 |Command| Description |
 |:------|:------------|
+|`npm install`|Install all dependency from `package.json` file|
 |`npm start`|Starts app and opens it in browser|
 |`npm test`|Launches the test runner in the interactive watch mode|
 |`npm run build`|Builds the app for production to the `build` folder|
