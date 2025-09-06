@@ -1,3 +1,6 @@
+[![pages-build-deployment](https://github.com/PGNetHun/Latte-uOS-Connect/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/PGNetHun/Latte-uOS-Connect/actions/workflows/pages/pages-build-deployment)
+
+
 # Latte/uOS Connect
 
 Web application to configure devices running Latte/uOS:
@@ -32,9 +35,7 @@ Any change in source code triggers a rebuild, and site is reloaded in browser.
 
 ## Hosting in GitHub Pages
 
-The site is hosted in GitHub Pages:<https://pgnethun.github.io/Latte-uOS-Connect>
-
 Repository is configured to automatically deploy to GitHub Pages.\
-The build output from which the deployment is done is stored in `gh-pages` branch.\
+The build output from which the deployment is done is stored in `gh-pages` branch.
 
 Example of hosting a React app in GitHub Pages: <https://github.com/gitname/react-gh-pages>
