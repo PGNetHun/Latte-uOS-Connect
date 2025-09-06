@@ -40,3 +40,7 @@ Repository is configured to automatically deploy to GitHub Pages.\
 The build output from which the deployment is done is stored in `gh-pages` branch.
 
 Example of hosting a React app in GitHub Pages: <https://github.com/gitname/react-gh-pages>
+
+## Manifest & favicon generator
+
+Tool: https://www.favicon-generator.org/
