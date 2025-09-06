@@ -7,7 +7,7 @@ import DeleteIcon from "@mui/icons-material/Delete";
 import { useDeleteEntryMutation } from "../../../api/deviceApi";
 import { removeInstalled } from "../../../redux/appsSlice";
 
-const _TEST_IMAGE_URL = "https://raw.githubusercontent.com/PGNetHun/T-Watch-2020-Store/main/faces/generic-face/_previews/abstract-01_preview.jpg";
+const _TEST_IMAGE_URL = "https://raw.githubusercontent.com/PGNetHun/Latte-uOS-Store/main/faces/generic-face/_previews/abstract-01_preview.jpg";
 
 const ImageWidth = "120px";
 const ImageHeight = "120px";

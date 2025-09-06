@@ -1,1 +1,1 @@
-export const StoreUrl = "https://raw.githubusercontent.com/PGNetHun/T-Watch-2020-Store/main/";
+export const StoreUrl = "https://raw.githubusercontent.com/PGNetHun/Latte-uOS-Store/main/";

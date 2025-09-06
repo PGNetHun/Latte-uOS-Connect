@@ -6,7 +6,7 @@
 // - "Launcher" tab: add grid with app icons, use sortable drag-and-drop library: 
 //    http://clauderic.github.io/react-sortable-hoc/#/basic-configuration/grid?_k=vtvd5k
 // - "Configure": show tabs on left with installed apps, in right panel show app's configuration panel (dynamic component like the panels used in Commands page)
-// - Get thumbnails and apps from T-Watch-2020-Store repo (repo should contain gzipped MPY apps)
+// - Get thumbnails and apps from Latte-uOS-Store repo (repo should contain gzipped MPY apps)
 
 import * as React from "react";
 import { useDispatch } from "react-redux";

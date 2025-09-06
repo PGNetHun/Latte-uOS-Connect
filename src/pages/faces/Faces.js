@@ -1,7 +1,7 @@
 //TODO: 
 // - add dropdown to top center to select face, ad below it the face specific configuration panel (if available)
 // - get configured face from device, and set in dropdown
-// - get faces from T-Watch-2020-Store repo
+// - get faces from Latte-uOS-Store repo
 
 import * as React from "react";
 import { Box, Button, Select, MenuItem, FormControl, InputLabel, Paper } from "@mui/material";

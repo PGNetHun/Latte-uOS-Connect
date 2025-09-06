@@ -1,13 +1,13 @@
-# T-Watch-2020 Connect
+# Latte/uOS Connect
 
-Web application to configure T-Watch-2020 device.
+Web application to configure devices running Latte/uOS:
+- T-Watch-2020
+- M5Stack Core2
+
+URL: <https://pgnethun.github.io/Latte-uOS-Connect/>
 
 Framework: [ReactJS](https://reactjs.org/) + [Material UI 5](https://mui.com/)\
 Hosting: [GitHub Pages](https://pages.github.com/)
-
-## Online website
-
-The site is hosted in GitHub Pages: <https://pgnethun.github.io/T-Watch-2020-Connect>
 
 ## Local development setup
 
@@ -15,11 +15,11 @@ The site is hosted in GitHub Pages: <https://pgnethun.github.io/T-Watch-2020-Con
 2. Clone this repository
 3. Open project directory in your favorite code editor (for example: [Visual Studio Code](https://code.visualstudio.com/))
 4. Open terminal, and go to project directory
-5. Run installation of pre-requirements: `npm install`
+5. Install pre-requirements: `npm install`
 6. Start site: `npm start`
 
 The site is started and opened in browser.\
-Any change in source code triggers a rebuild, and site reload.
+Any change in source code triggers a rebuild, and site is reloaded in browser.
 
 ## Available Scripts
 
@@ -30,7 +30,9 @@ Any change in source code triggers a rebuild, and site reload.
 |`npm run build`|Builds the app for production to the `build` folder|
 |`npm run deploy`|Deploy React app to GitHub Pages|
 
-## Host in GitHub Pages
+## Hosting in GitHub Pages
+
+The site is hosted in GitHub Pages:<https://pgnethun.github.io/Latte-uOS-Connect>
 
 Repository is configured to automatically deploy to GitHub Pages.\
 The build output from which the deployment is done is stored in `gh-pages` branch.\

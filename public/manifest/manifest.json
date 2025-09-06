@@ -1,6 +1,6 @@
 {
-    "short_name": "T-Watch-2020-Connect",
-    "name": "T-Watch-2020 configuration app",
+    "short_name": "Latte/uOS Connect",
+    "name": "Latte/uOS Connect - configuration site",
     "icons": [
         {
             "src": "android-icon-36x36.png",

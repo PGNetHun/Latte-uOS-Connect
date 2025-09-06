@@ -240,13 +240,13 @@ function Spotify() {
                                     <TableRow>
                                         <TableCell align="right">App name</TableCell>
                                         <TableCell>
-                                            <CopyField label={"Example"} value={"T-Watch-2020 Spotify"}></CopyField>
+                                            <CopyField label={"Example"} value={"Latte/uOS Spotify"}></CopyField>
                                         </TableCell>
                                     </TableRow>
                                     <TableRow>
                                         <TableCell align="right">App description</TableCell>
                                         <TableCell>
-                                            <CopyField label={"Example"} value={"Spotify app for T-Watch-2020 smartwatch"}></CopyField>
+                                            <CopyField label={"Example"} value={"Spotify app for Latte/uOS smartwatch"}></CopyField>
                                         </TableCell>
                                     </TableRow>
                                     <TableRow>

@@ -44,7 +44,7 @@ function Authentication() {
           noValidate
         >
           <Box sx={{ display: "flex", flexFlow: "column", alignItems: "center", gap: 2 }}>
-            <Typography variant="h4" align="center" sx={{ mb: "1em" }}>T-Watch-2020 Connect</Typography>
+            <Typography variant="h4" align="center" sx={{ mb: "1em" }}>Latte/uOS Connect</Typography>
             <TextField required name="url" label="Device URL" variant="outlined" onChange={(e) => setUrl(e.target.value)} value={url} disabled={isConnecting} />
             <TextField required name="authcode" label="Authentication code" variant="outlined" onChange={(e) => setAuthCode(e.target.value)} value={authcode} disabled={isConnecting} />
             <Button variant="contained" type="submit" sx={{ minWidth: "10em" }} disabled={isConnecting}>Connect</Button>

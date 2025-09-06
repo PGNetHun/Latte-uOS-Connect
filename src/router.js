@@ -37,6 +37,6 @@ const router = createBrowserRouter([
         path: "*",
         element: <NoPage />
     }
-], { basename: "/T-Watch-2020-Connect" });
+], { basename: "/Latte-uOS-Connect" });
 
 export default router;
