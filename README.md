@@ -3,11 +3,17 @@
 
 # Latte/uOS Connect
 
+<p align="center">
+  <img src="public/images/logo.webp" alt="MicroPython Logo"/>
+</p>
+
 Web application to configure devices running Latte/uOS:
 - T-Watch-2020
 - M5Stack Core2
 
-URL: <https://pgnethun.github.io/Latte-uOS-Connect/>
+Link: <https://pgnethun.github.io/Latte-uOS-Connect/>
+
+## Technical details
 
 Framework: [ReactJS](https://reactjs.org/) + [Material UI 5](https://mui.com/)\
 Hosting: [GitHub Pages](https://pages.github.com/)
